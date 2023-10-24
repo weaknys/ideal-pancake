@@ -169,3 +169,4 @@
 45. Parking management system
 46. Online food delivery system (linked to all restaurants in different districts in different regions in some country)
 ```
+deleted
